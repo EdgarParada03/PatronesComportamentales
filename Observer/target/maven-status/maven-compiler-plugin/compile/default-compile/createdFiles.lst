@@ -1,0 +1,4 @@
+com\mycompany\observer\Main.class
+com\mycompany\observer\EmailSubscriber.class
+com\mycompany\observer\Subscriber.class
+com\mycompany\observer\Subject.class
