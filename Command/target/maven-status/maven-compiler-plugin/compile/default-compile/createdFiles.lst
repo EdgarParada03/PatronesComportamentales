@@ -1,0 +1,6 @@
+com\mycompany\command\Main.class
+com\mycompany\command\Command.class
+com\mycompany\command\FlipUpCommand.class
+com\mycompany\command\FlipDownCommand.class
+com\mycompany\command\Switch.class
+com\mycompany\command\Light.class
