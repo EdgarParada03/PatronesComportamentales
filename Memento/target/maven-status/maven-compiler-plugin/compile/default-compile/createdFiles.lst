@@ -1,0 +1,4 @@
+com\mycompany\memento\TextEditor.class
+com\mycompany\memento\Memento.class
+com\mycompany\memento\Main.class
+com\mycompany\memento\TextEditorHistory.class
