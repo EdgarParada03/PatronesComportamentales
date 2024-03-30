@@ -1,0 +1,6 @@
+com\mycompany\state\State.class
+com\mycompany\state\ActiveState.class
+com\mycompany\state\Main.class
+com\mycompany\state\User.class
+com\mycompany\state\DisableState.class
+com\mycompany\state\LockState.class
