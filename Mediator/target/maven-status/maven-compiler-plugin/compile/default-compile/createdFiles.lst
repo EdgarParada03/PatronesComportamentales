@@ -1,0 +1,5 @@
+com\mycompany\mediator\ConcreteMediator.class
+com\mycompany\mediator\Mediator.class
+com\mycompany\mediator\ComponenteB.class
+com\mycompany\mediator\Main.class
+com\mycompany\mediator\ComponenteA.class
