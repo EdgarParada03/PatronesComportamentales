@@ -1,0 +1,7 @@
+com\mycompany\chainofresponsibility\Main.class
+com\mycompany\chainofresponsibility\NewClass.class
+com\mycompany\chainofresponsibility\LoanApprover.class
+com\mycompany\chainofresponsibility\VicePresident.class
+com\mycompany\chainofresponsibility\Manager.class
+com\mycompany\chainofresponsibility\LoanRequest.class
+com\mycompany\chainofresponsibility\Director.class
