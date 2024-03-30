@@ -1,0 +1,6 @@
+com\mycompany\iterator\Iterador.class
+com\mycompany\iterator\IteradorConcreto.class
+com\mycompany\iterator\ColeccionIterable.class
+com\mycompany\iterator\Main.class
+com\mycompany\iterator\ColeccionConcreta.class
+com\mycompany\iterator\T.class
