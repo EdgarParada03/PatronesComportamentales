@@ -1,0 +1,5 @@
+com\mycompany\strategy\CatSound.class
+com\mycompany\strategy\DogSound.class
+com\mycompany\strategy\AnimalSoundStrategy.class
+com\mycompany\strategy\Main.class
+com\mycompany\strategy\AnimalContext.class
