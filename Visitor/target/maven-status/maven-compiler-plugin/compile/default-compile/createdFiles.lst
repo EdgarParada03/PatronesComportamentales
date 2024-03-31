@@ -1,0 +1,6 @@
+com\mycompany\visitor\Element.class
+com\mycompany\visitor\Visitor.class
+com\mycompany\visitor\ConcreteElementB.class
+com\mycompany\visitor\ConcreteElementA.class
+com\mycompany\visitor\ConcreteVisitor.class
+com\mycompany\visitor\Main.class
