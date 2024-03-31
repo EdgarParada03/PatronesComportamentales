@@ -1,0 +1,4 @@
+com\mycompany\templatemethod\StandardComputerBuilder.class
+com\mycompany\templatemethod\ComputerBuilder.class
+com\mycompany\templatemethod\HighEndComputerBuilder.class
+com\mycompany\templatemethod\Main.class
